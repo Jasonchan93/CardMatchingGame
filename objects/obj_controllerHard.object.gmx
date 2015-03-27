@@ -36,7 +36,7 @@ global.Allfound = 0; //
 
 global.can_select = true; //Allow user to see cards after flipping
 global.flipAttempts = 0; //No. of cards flipped
-global.flipAttemptsRemaining = 28;//No. of pairs remaining
+global.flipAttemptsRemaining = 14;//No. of pairs remaining
 
 width = 7;
 height = 4;
