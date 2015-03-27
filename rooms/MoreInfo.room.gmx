@@ -52,6 +52,11 @@
   </views>
   <instances>
     <instance objName="Obj_BackLvlSct" x="32" y="640" name="inst_1F2BED98" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ScoreBreakdown" x="704" y="640" name="inst_1435D11A" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Backboarder" x="0" y="0" name="inst_0E225B6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_HTPB" x="416" y="640" name="inst_CD404068" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ATG" x="1024" y="640" name="inst_115E7B1D" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
+    <instance objName="obj_About" x="0" y="0" name="inst_1158632C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

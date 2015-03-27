@@ -36,7 +36,7 @@ global.Allfound = 0; //
 
 global.can_select = true; //Allow user to see cards after flipping
 global.flipAttempts = 0; //No. of cards flipped
-global.flipAttemptsRemaining = 14;//No. of pairs remaining
+global.flipAttemptsRemaining = 28;//No. of pairs remaining
 
 width = 7;
 height = 4;
@@ -64,7 +64,7 @@ C14Count = 0;
 
 //Co ords of where cards will be displayed
 xx = 340;
-yy = 40;
+yy = 60;
 
 found = false; 
 
@@ -314,7 +314,7 @@ for (var i = 0; i &lt; width; i++)
     
     yy += 60;
     xx += 135;
-    yy = 40;
+    yy = 60;
     
 
     

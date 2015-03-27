@@ -6,8 +6,19 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Back</sprite>
-    <sprite>sprites\HTP</sprite>
+    <sprite>sprites\spr_Exit</sprite>
+    <sprite>sprites\spr_About</sprite>
+    <sprite>sprites\spr_Scoring</sprite>
+    <sprite>sprites\spr_SelectPT</sprite>
+    <sprite>sprites\spr_BTM</sprite>
+    <sprite>sprites\spr_BTM2</sprite>
+    <sprite>sprites\spr_ATG</sprite>
+    <sprite>sprites\spr_ATG2</sprite>
+    <sprite>sprites\spr_HTPB</sprite>
+    <sprite>sprites\spr_HTPB2</sprite>
+    <sprite>sprites\spr_ScoreBreakdown</sprite>
+    <sprite>sprites\spr_ScoreBreakdown2</sprite>
+    <sprite>sprites\spr_HTP</sprite>
     <sprite>sprites\spr_ResetHS</sprite>
     <sprite>sprites\spr_ResetHS2</sprite>
     <sprite>sprites\spr_seconds</sprite>
@@ -38,6 +49,7 @@
     <sprite>sprites\spr_Back2</sprite>
     <sprite>sprites\Easy</sprite>
     <sprite>sprites\Easy2</sprite>
+    <sprite>sprites\Back</sprite>
     <sprite>sprites\Medium</sprite>
     <sprite>sprites\Medium2</sprite>
     <sprite>sprites\Hard</sprite>
@@ -134,6 +146,13 @@
   </fonts>
   <objects name="objects">
     <object>objects\Boarder</object>
+    <object>objects\obj_Exit</object>
+    <object>objects\obj_About</object>
+    <object>objects\obj_Scoring</object>
+    <object>objects\obj_ATG</object>
+    <object>objects\object91</object>
+    <object>objects\obj_HTPB</object>
+    <object>objects\obj_ScoreBreakdown</object>
     <object>objects\obj_HTP</object>
     <object>objects\obj_ResetHS</object>
     <object>objects\obj_ResetHSM</object>
@@ -226,6 +245,7 @@
     <room>rooms\Menu1</room>
     <room>rooms\MoreInfo</room>
     <room>rooms\HowtoPlay</room>
+    <room>rooms\ScoreBreakdown</room>
     <room>rooms\LevelSelect</room>
     <room>rooms\easy_time_Select</room>
     <room>rooms\GameEasy</room>

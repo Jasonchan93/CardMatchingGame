@@ -58,7 +58,6 @@
     <instance objName="obj_BackfromScore" x="32" y="640" name="inst_E17A34E8" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
     <instance objName="obj_Backboarder" x="0" y="0" name="inst_ED5F642F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_MediumHST" x="160" y="32" name="inst_FC99DD11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ResetHSM" x="928" y="640" name="inst_041312F4" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -57,6 +57,9 @@
     <instance objName="EasyTitle" x="64" y="192" name="inst_6A615DA9" locked="0" code="" scaleX="0.0500000007450581" scaleY="0.0500000007450581" colour="4294967295" rotation="0"/>
     <instance objName="MediumTitle" x="160" y="192" name="inst_83375A3B" locked="0" code="" scaleX="0.0500000007450581" scaleY="0.0500000007450581" colour="4294967295" rotation="0"/>
     <instance objName="HardTitle" x="256" y="192" name="inst_E9D582BE" locked="0" code="" scaleX="0.0500000007450581" scaleY="0.0500000007450581" colour="4294967295" rotation="0"/>
+    <instance objName="obj_HTPB" x="416" y="640" name="inst_2F1B5D97" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ScoreBreakdown" x="704" y="640" name="inst_B1E7FC06" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ATG" x="1024" y="640" name="inst_28989456" locked="0" code="" scaleX="0.200000002980232" scaleY="0.200000002980232" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

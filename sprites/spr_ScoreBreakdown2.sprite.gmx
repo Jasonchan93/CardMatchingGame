@@ -7,19 +7,19 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>18</bbox_left>
-  <bbox_right>1223</bbox_right>
-  <bbox_top>46</bbox_top>
-  <bbox_bottom>556</bbox_bottom>
+  <bbox_left>0</bbox_left>
+  <bbox_right>1483</bbox_right>
+  <bbox_top>0</bbox_top>
+  <bbox_bottom>310</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>1280</width>
-  <height>720</height>
+  <width>1484</width>
+  <height>311</height>
   <frames>
-    <frame index="0">images\HTP_0.png</frame>
+    <frame index="0">images\spr_ScoreBreakdown2_0.png</frame>
   </frames>
 </sprite>

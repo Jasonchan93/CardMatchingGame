@@ -59,7 +59,7 @@
     <instance objName="obj_9secondMed" x="832" y="288" name="inst_45EAEC82" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_10secondMed" x="1024" y="288" name="inst_C74FFF8C" locked="0" code="" scaleX="0.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="obj_Backboarder" x="0" y="0" name="inst_2938F475" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_SelectPrev" x="128" y="32" name="inst_8BC43835" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
+    <instance objName="obj_SelectPrev" x="32" y="32" name="inst_8BC43835" locked="0" code="" scaleX="0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
     <instance objName="obj_PrevStart" x="224" y="496" name="inst_2FE129E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_seconds" x="512" y="192" name="inst_50C1A1E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>

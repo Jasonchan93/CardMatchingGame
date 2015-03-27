@@ -257,48 +257,65 @@ if (global.Allfound == 10 )
 
 //Flip bonus calculation - Med
 
-if (global.flipAttempts &gt; 0 &amp;&amp; global.flipAttempts &lt;=5)
+if (global.flipAttempts == 10)
 {
     global.flipBonus = 500;
 }
-else if (global.flipAttempts &gt;5 &amp;&amp; global.flipAttempts &lt;=6)
+else if (global.flipAttempts ==11)
+{
+    global.flipBonus = 490;
+}
+else if (global.flipAttempts ==12)
+{
+    global.flipBonus = 470;
+}
+else if (global.flipAttempts ==13)
+{
+    global.flipBonus = 440;
+}
+else if (global.flipAttempts ==14)
 {
     global.flipBonus = 400;
 }
-else if (global.flipAttempts &gt;6 &amp;&amp; global.flipAttempts &lt;=8)
+else if (global.flipAttempts ==15)
 {
-    global.flipBonus = 200;
+    global.flipBonus = 350;
 }
-else if (global.flipAttempts &gt;8 &amp;&amp; global.flipAttempts &lt;=12)
+else if (global.flipAttempts &gt;16 &amp;&amp; global.flipAttempts &lt;=20)
+{
+    global.flipBonus = 300;
+}
+else if (global.flipAttempts &gt;20 &amp;&amp; global.flipAttempts &lt;=30)
 {
     global.flipBonus = 100;
 }
-else if (global.flipAttempts &gt;12)
+else if (global.flipAttempts &gt;30)
 {
     global.flipBonus = 0;
 }
 
 
 //Time bonus - Med
-if (global.minutes &lt;= 0 &amp;&amp; global.seconds &lt;=8)
+
+if (global.minutes &lt;= 0 &amp;&amp; global.seconds &lt;=20)
 {
     global.timeBonus = 500;
 }
-else if (global.minutes &lt;= 0 &amp;&amp; global.seconds &gt;8 &amp;&amp; global.seconds &lt;=12)
+else if (global.minutes &lt;= 0 &amp;&amp; global.seconds &gt;20 &amp;&amp; global.seconds &lt;=25)
+{
+    global.timeBonus = 400;
+}
+else if (global.minutes &lt;= 0 &amp;&amp; global.seconds &gt;25 &amp;&amp; global.seconds &lt;=30 )
 {
     global.timeBonus = 300;
 }
-else if (global.minutes &lt;= 0 &amp;&amp; global.seconds &gt;12 &amp;&amp; global.seconds &lt;=19 )
+else if (global.minutes &lt;= 0 &amp;&amp; global.seconds &gt;30 &amp;&amp; global.seconds &lt;=35 )
 {
     global.timeBonus = 200;
 }
-else if (global.minutes &lt;= 0 &amp;&amp; global.seconds &gt;19 &amp;&amp; global.seconds &lt;=25 )
+else if (global.minutes &gt; 0 || global.seconds &gt;40)
 {
     global.timeBonus = 100;
-}
-else if (global.minutes &gt; 0 || global.seconds &gt;25)
-{
-    global.timeBonus = 0;
 }
 
 

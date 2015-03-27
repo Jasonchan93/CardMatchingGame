@@ -42,7 +42,7 @@ draw_text(490,470, "Preview bonus: " + string(global.previewBonus));
 
 
 //Total score
-draw_text(490,550, "TOTAL: " + string(global.totalScore));
+draw_text(490,540, "TOTAL: " + string(global.totalScore));
 
 
 
